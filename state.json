@@ -1,6 +1,6 @@
 {
   "baselines": {
-    "Nucktheman": 5175.78,
+    "Nucktheman": 5475.78,
     "starryembers": 3000.66,
     "Sublux": 2019.92,
     "duckyzzz": 1298.19,
@@ -10,5 +10,5 @@
     "RipTheLC": 588.66,
     "N ****t": 110.31
   },
-  "failures": 14
+  "failures": 0
 }
