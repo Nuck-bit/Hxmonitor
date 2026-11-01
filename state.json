@@ -1,14 +1,14 @@
 {
   "baselines": {
     "Nucktheman": 500,
-    "starryembers": 100,
-    "Sublux": 250,
+    "starryembers": 0.36,
+    "Sublux": 100,
     "duckyzzz": 1298.19,
     "Fa****7": 568.7,
     "jeremyquick": 484.67,
     "Happy_Turtle": 125.51,
     "RipTheLC": 588.66,
-    "N ****t": 110.31,
+    "N ****t": 210.31,
     "This month:": 500
   },
   "failures": 0
